@@ -5,7 +5,7 @@ This interactive Streamlit app demonstrates how adversarial AI — specifically 
 ## 🚀 What This App Does
 
 - Generates synthetic "identities" using a simple GAN
-- Visualizes fake credit features such as **credit score** and **age**
+- Visualises fake credit features such as **credit score** and **age**
 - Evaluates a basic XGBoost fraud model against these synthetic profiles
 - Shows how some synthetic identities can bypass fraud detection
 - Optionally compares real vs synthetic feature distributions
@@ -32,7 +32,7 @@ Fraudsters are increasingly using synthetic identities — blending real and fak
 - Fraud labels (`0 = non-fraud`, `1 = fraud`) are assigned.
 - If synthetic identities are misclassified as non-fraud, a warning is shown.
 
-### 5. Visualize the Risk
+### 5. Visualise the Risk
 - Real vs synthetic distributions are shown via scatter plots.
 - You can optionally toggle visibility using the sidebar controls.
 
