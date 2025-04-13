@@ -1,4 +1,4 @@
-# 🕵️‍♂️ Advai: Synthetic Identity Fraud Demo
+# 🕵️‍♂️ Synthetic Identity Fraud Demo
 
 This interactive Streamlit app demonstrates how adversarial AI — specifically Generative Adversarial Networks (GANs) — can be used to simulate synthetic identity fraud and evaluate the resilience of fraud detection models.
 
