@@ -1,6 +1,6 @@
 # 🕵️‍♂️ Synthetic Identity Fraud Demo
 
-This interactive Streamlit app demonstrates how adversarial AI — specifically Generative Adversarial Networks (GANs) — can be used to simulate synthetic identity fraud and evaluate the resilience of fraud detection models.
+This interactive Streamlit app created by Caroline Keddie demonstrates how adversarial AI — specifically Generative Adversarial Networks (GANs) — can be used to simulate synthetic identity fraud and evaluate the resilience of fraud detection models.
 
 ## 🚀 What This App Does
 
