@@ -40,7 +40,7 @@ Fraudsters are increasingly using synthetic identities — blending real and fak
 
 ## 🖥️ How to Run the App
 
-1. Clone this repo or copy `app.py`, `requirements.txt`, and this `README.md`.
+1. Clone this repo or copy `untitled3.py`, `requirements.txt`, and this `README.md`.
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
